@@ -79,7 +79,7 @@ python scripts/rl_text2vis.py \
   --image_save_path ./images
 ```
 
-## Training Configuration
+## Sample Training Configuration
 
 - Learning rate: 1e-5
 - Batch size: 8 per device
@@ -106,3 +106,4 @@ If you use this code or find our work helpful, please cite:
 ## Contact
 
 For questions or issues, please contact: mizanur.york@gmail.com
+
