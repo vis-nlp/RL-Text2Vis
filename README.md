@@ -6,6 +6,8 @@ Official repository for the paper: **[Aligning Text, Code, and Vision: A Multi-O
 
 This repository provides the implementation for training language models using Group Relative Policy Optimization (GRPO) to generate both textual answers and executable Python/Matplotlib visualization code from data tables. The framework employs a multi-objective reinforcement learning approach that aligns text generation, code quality, and visual correctness.
 
+> 🏆 **Accepted to EMNLP 2025 (Main Conference)**
+
 ## Features
 
 - **Multi-Modal Reward System**: Combines text, code executability, and visual quality rewards
@@ -106,4 +108,5 @@ If you use this code or find our work helpful, please cite:
 ## Contact
 
 For questions or issues, please contact: mizanur.york@gmail.com
+
 
